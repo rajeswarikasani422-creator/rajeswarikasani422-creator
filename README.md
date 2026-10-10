@@ -1,130 +1,164 @@
 
-<!-- ===== HERO SECTION ===== -->
-
 <div align="center">
 
-# Hey there, I'm Rajeswari Kasani 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21172F,50:6D28D9,100:A78BFA&height=200&section=header&text=RAJESWARI%20KASANI&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20GIRLIE%20%E2%80%A2%20BUILDER%20%E2%80%A2%20DREAMER&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Rajeswari Kasani header"/>
 
-### `AI/ML Explorer` · `GenAI Builder` · `Developer in Progress`
+### 💜 AI-curious. Ambitious by default. Building my own lane.
 
-✨ *AI-curious. Code-obsessed. Building what's next.* 🚀
+*She has ideas. She has code. She's figuring out the rest. ✨*
 
-<p>
-  <a href="https://rajeswari-portfolio-alpha.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rajeswari-kasani-6a4b22336">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/rajeswarikasani422-creator">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<br/>
+
+<a href="https://rajeswari-portfolio-alpha.vercel.app">
+<img src="https://img.shields.io/badge/MY%20PORTFOLIO-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/rajeswari-kasani-6a4b22336">
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-A78BFA?style=for-the-badge&logo=linkedin&logoColor=21172F" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/rajeswarikasani422-creator">
+<img src="https://img.shields.io/badge/GITHUB-21172F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6D28D9&height=3" width="80%" alt="Purple divider"/>
 
 </div>
 
----
+##  THE GIRL BEHIND THE CODE
 
-## 💫 About Me
+🎓 Final-year B.Tech student in **Data Science**
 
-- 🎓 Final-year B.Tech student in **Data Science**
-- 🤖 Exploring **Artificial Intelligence, Machine Learning & Generative AI**
-- 🧠 Interested in **LLMs, RAG, AI agents and intelligent applications**
-- 🛠️ Building projects that connect AI with real-world problems
-- 🌱 Always learning, experimenting and improving
-- 🎯 Goal: Turn ideas into useful, real-world technology
+🤖 Exploring the world of **AI, Machine Learning & Generative AI**
 
-> *Learning by building. Growing with every commit.* 💻
+🧠 Curious about **LLMs, RAG, AI agents & intelligent applications**
 
----
+🛠️ Turning random ideas into real projects, one commit at a time
 
-## ⚡ Tech Stack
+🌱 Currently in my *learn it, build it, make it better* era
 
-### 👩‍💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
+💭 **My philosophy:** Less talking about ideas. More building them.
 
-### 🤖 AI / Data Science
-<p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/ChromaDB-Vector%20DB-5B4BDB?style=for-the-badge" alt="ChromaDB"/>
-</p>
-
-### 🌐 Development & Tools
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
+> ✨ *Not here to know everything. Here to keep getting better.*
 
 ---
 
-## 🚀 Featured Projects
+## 💜 MY TECH WORLD
 
-### 🌍 Viharam — AI-Powered Travel Planner
-An adaptive travel-planning application designed to help users create personalized trips using AI agents and external data.
+### 👩🏻‍💻 Languages
 
-**Tech:** Python · React · FastAPI · Generative AI · PostgreSQL
+<p>
+<img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-21172F?style=for-the-badge&logo=openjdk&logoColor=A78BFA" alt="Java"/>
+<img src="https://img.shields.io/badge/SQL-A78BFA?style=for-the-badge&logo=mysql&logoColor=21172F" alt="SQL"/>
+</p>
 
-🔗 [Explore Repository](https://github.com/rajeswarikasani422-creator/viharam-travel-planner)
+### 🧠 AI & Data Science
 
-### 🎬 YouTube Script Generator
-An AI-powered tool that researches a topic using web search and generates a YouTube video script.
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-6D28D9?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Pandas-21172F?style=for-the-badge&logo=pandas&logoColor=A78BFA" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-A78BFA?style=for-the-badge&logo=numpy&logoColor=21172F" alt="NumPy"/>
+<img src="https://img.shields.io/badge/LangChain-6D28D9?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/ChromaDB-21172F?style=for-the-badge&logoColor=white" alt="ChromaDB"/>
+</p>
 
-🔗 [Explore Repository](https://github.com/rajeswarikasani422-creator/youtube-script-generator)
+### ⚙️ Tools & Technologies
 
-### 📊 Churn Sense AI
-A customer churn prediction application that applies data analysis and machine learning to support business insights.
+<p>
+<img src="https://img.shields.io/badge/Git-21172F?style=for-the-badge&logo=git&logoColor=A78BFA" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/FastAPI-A78BFA?style=for-the-badge&logo=fastapi&logoColor=21172F" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/PostgreSQL-21172F?style=for-the-badge&logo=postgresql&logoColor=A78BFA" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Docker-6D28D9?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
 
-🔗 [Explore Repository](https://github.com/rajeswarikasani422-creator/Churn-sense-ai)
+---
 
-### 🧾 AIVOA Complaint Dashboard
+## 🚀 BUILT DIFFERENT. BUILDING STILL.
+
+### 🌍 01 / VIHARAM
+**AI-Powered Adaptive Travel Planner**
+
+An intelligent travel-planning project designed to create personalized trips using AI agents and external data.
+
+`Python` `FastAPI` `Generative AI` `PostgreSQL`
+
+[💜 EXPLORE PROJECT ↗](https://github.com/rajeswarikasani422-creator/viharam-travel-planner)
+
+### 🎬 02 / YOUTUBE SCRIPT GENERATOR
+**Research smarter. Create faster.**
+
+An AI agent that researches topics using web search and generates YouTube video scripts with an LLM.
+
+`Python` `AI Agents` `LLMs`
+
+[💜 EXPLORE PROJECT ↗](https://github.com/rajeswarikasani422-creator/youtube-script-generator)
+
+### 📊 03 / CHURN SENSE AI
+**Turning customer data into insights.**
+
+A machine-learning web application for customer churn prediction and business insights.
+
+`Machine Learning` `Data Analysis`
+
+[💜 EXPLORE PROJECT ↗](https://github.com/rajeswarikasani422-creator/Churn-sense-ai)
+
+### 🧾 04 / AIVOA COMPLAINT DASHBOARD
+**Smarter complaint management with AI.**
+
 A complaint-management dashboard featuring an AI-powered assistant.
 
-🔗 [Explore Repository](https://github.com/rajeswarikasani422-creator/aivoa-complaint-dashboard)
-
----
-
-## 📈 GitHub Stats
+[💜 EXPLORE PROJECT ↗](https://github.com/rajeswarikasani422-creator/aivoa-complaint-dashboard)
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajeswarikasani422-creator&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeswarikasani422-creator&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<a href="https://github.com/rajeswarikasani422-creator?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20MY%20PROJECTS-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View all projects"/>
+</a>
 
 </div>
 
 ---
 
-## 🐍 Contribution Journey
+## 📈 THE PROGRESS SPEAKS
 
 <div align="center">
 
-<img src="https://github.com/rajeswarikasani422-creator/rajeswarikasani422-creator/blob/output/github-contribution-grid-snake.svg" alt="Contribution animation"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajeswarikasani422-creator&show_icons=true&theme=midnight-purple&hide_border=true&title_color=A78BFA&icon_color=6D28D9" alt="GitHub stats"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeswarikasani422-creator&layout=compact&theme=midnight-purple&hide_border=true&title_color=A78BFA" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=rajeswarikasani422-creator&theme=midnight-purple&hide_border=true&ring=A78BFA&fire=6D28D9&currStreakLabel=A78BFA" alt="GitHub streak"/>
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## 🐍 THE COMMIT ERA
 
 <div align="center">
 
-💼 [Portfolio](https://rajeswari-portfolio-alpha.vercel.app)  
-🤝 [LinkedIn](https://www.linkedin.com/in/rajeswari-kasani-6a4b22336)  
-💻 [GitHub](https://github.com/rajeswarikasani422-creator)
+*Every little contribution counts. Watch the journey unfold.* 💜
 
-### 💜 *Code. Learn. Build. Repeat.* 🚀
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajeswarikasani422-creator/rajeswarikasani422-creator/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajeswarikasani422-creator/rajeswarikasani422-creator/output/github-contribution-grid-snake.svg">
+<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/rajeswarikasani422-creator/rajeswarikasani422-creator/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 👑 THE NEXT CHAPTER IS MINE.
+
+*Big dreams. Small commits. Unstoppable growth.*
+
+<a href="https://rajeswari-portfolio-alpha.vercel.app">PORTFOLIO</a> ·
+<a href="https://www.linkedin.com/in/rajeswari-kasani-6a4b22336">LINKEDIN</a> ·
+<a href="https://github.com/rajeswarikasani422-creator">GITHUB</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21172F,50:6D28D9,100:A78BFA&height=120&section=footer" width="100%" alt="Purple footer"/>
 
 </div>
